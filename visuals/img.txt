@@ -1,0 +1,13 @@
+- AI_ReadyData.png (attributes of data engineering results include risk index)
+- BaseMap.png (small area of SaudiaArabia with arabic text)
+- DataDrivenSessorsStyling.png
+- DataSourceAndModels.png (from colab showing how data with generated and exported into geoson, csv and other format)
+- DynamicStyledPiplines.png
+- EndToEndVision.png (colored nice diagram showing full stages)
+- LeakageAnalysis.png (cusome icons, arttributes for leakages)
+- LeakageDistanceAnlaysis.png (auto generated distance from specific sesnor - example of analysis)
+- PiplinesBufferZonesAnalysis.png
+- ProjectCover.png (nice picture used as the main project cover picture)
+- ProjectTimeline.png (similar to grantt chart with completion and key dates)
+- ProtectedAreasAndWaterSource.png
+- PrpjectPhases.png
